@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hawkest
-- 👀 I’m interested in Adventureland and learning to code.
+- 👀 I’m interested in Adventureland and learning to code - rather refresh coding knowledge I had 10 years ago.
 - 🌱 I’m currently learning Javascript and interested in starting to design, create and build a competitive micromouse.
 - 💞️ I’m looking to collaborate on either the above.
 - 📫 How to reach me ...

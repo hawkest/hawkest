@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @hawkest
-- 👀 I’m interested in Adventureland and learning to code - rather refresh coding knowledge I had 10 years ago.
-- 🌱 I’m currently learning Javascript and interested in starting to design, create and build a competitive micromouse.
-- 💞️ I’m looking to collaborate on either the above.
+- 👀 I’m interested in learning to code - rather refresh coding knowledge I had 10 years ago.
+- 🌱 I’m currently learning C/C++ with a view to design and create a competitive micromouse.
+- 💞️ I’m looking for collaboration to guide me through the rabbit hole that is coding.
 - 📫 How to reach me ...
   - Discord   - hawkest#7711
-  - Twitch    - Hawk3st
       
 
 <!---
